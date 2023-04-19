@@ -21,4 +21,10 @@ which is based on 40k+ movies.
 -  Is there a significant difference in the average rating of movies based on their genre?
 -   Is there a correlation between the amount of humor in a movie and its public vote? (p-value is used)
 -   Is there a significant difference in the average rating of movies with a duration longer than 120 minutes and those with a duration shorter than 90 minutes? (using t-test)
+-   Using the (ANNOVA Test) to find out if there is a significant difference in the average rating of movies based on their genre.
+
+
+- Perform some tests on our data
+- Chi-Square Test
+- ANNOVA Test 
 

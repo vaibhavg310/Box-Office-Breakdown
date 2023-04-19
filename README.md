@@ -16,7 +16,7 @@ which is based on 40k+ movies.
 - Are there any outliers in the duration of movies in the dataset? Use a box plot to visualize the distribution and calculate the interquartile range and identify any outliers. (DONE)
 
 ### Statistical Analysis Section :
-- If there is a correlation between the duration and rating of movies (use the Pearson correlation(p-value) coefficient.)
+- If there is a correlation between the duration and average rating of movies (use the Pearson correlation(p-value) coefficient.)
 - Which country produces the longest and shortest movies on average?
 -  Is there a significant difference in the average rating of movies based on their genre?
 -   Is there a correlation between the amount of humor in a movie and its public vote? (p-value is used)
